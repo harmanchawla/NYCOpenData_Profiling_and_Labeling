@@ -1,5 +1,11 @@
 # theBiggestData
 
+• Performed data profiling and semantic labeling for 1900+ datasets provided on NYC OpenData using PySpark on NYU’s cluster
+
+• Analyzed 311 reports for the past 10 years to uncover disparities in response time based on borough, filming permits, income per capita of the neighborhood and proximity to tourist attractions
+
+---
+
 ## Running
 
 ### Timing
